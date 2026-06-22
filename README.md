@@ -74,7 +74,7 @@ This project detects whether an SMS message is Spam or Ham (Not Spam) using Mach
 
 
 
-Anumalla Sahithi
+Badugula Sowmya
 
 
 
